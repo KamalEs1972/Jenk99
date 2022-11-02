@@ -1,0 +1,4 @@
+testCases\HomePageTest.class
+testCases\ConnectMySql.class
+testCases\LoginPageTest.class
+testCases\SignUpPageTest.class
